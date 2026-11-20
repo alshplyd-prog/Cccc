@@ -1,0 +1,6 @@
+{
+  "name": "الكرار للموبايل - نظام الإدارة والمزامنة",
+  "description": "نظام إدارة المبيعات والعقود والمزامنة السحابية للروبوت وويب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
